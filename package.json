@@ -1,0 +1,29 @@
+{
+  "name": "ppi-aula01-2025",
+  "version": "1.0.0",
+  "description": "Exemplo de aplicação HTTP web com Node Javascript",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RenatoFernandoSilvaGoncalves/PPI-AULA01-2025.git"
+  },
+  "keywords": [
+    "javascript",
+    "HTTP",
+    "Node"
+  ],
+  "author": "Renato Gonçalves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RenatoFernandoSilvaGoncalves/PPI-AULA01-2025/issues"
+  },
+  "homepage": "https://github.com/RenatoFernandoSilvaGoncalves/PPI-AULA01-2025#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
